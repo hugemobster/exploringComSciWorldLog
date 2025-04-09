@@ -1,0 +1,11 @@
+title: Exploring the CS World Log
+description: A personal blog documenting my learning journey in computer science, covering topics such as Rust, Docker, Functional Programming, and more.
+author:
+  name: [Aryan Patel]
+  email: []
+baseurl: ""
+url: "https://github.com/[hugemobster]/exploringComSciWorldLog"
+
+theme: "minimal" 
+paginate: 5
+
