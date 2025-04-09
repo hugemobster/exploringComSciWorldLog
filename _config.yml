@@ -6,6 +6,6 @@ author:
 baseurl: ""
 url: "https://github.com/[hugemobster]/exploringComSciWorldLog"
 
-theme: "minimal" 
+theme: "minima" 
 paginate: 5
 
