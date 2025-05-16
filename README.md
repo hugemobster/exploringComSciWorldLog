@@ -1,4 +1,4 @@
-# Exploring the CS World Log
+# Learning Log
 
 Welcome to **Exploring the CS World Log**! This is a blog/log that chronicles my learning journey in computer science. From exploring new programming languages to diving deep into system-level topics, this repo contains the knowledge, challenges, and progress I make along the way.
 
